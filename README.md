@@ -2,7 +2,6 @@
 
 A simple multi-container guestbook web app I built with **Flask** and **Redis** db. Containerized with **Docker** and orchestrated with **Docker Compose**. 
 Users can sign the guestbook, with the messages stored via Redis.
----
 
 ## Features
 - Live page-visit counter
